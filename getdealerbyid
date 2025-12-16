@@ -1,0 +1,14 @@
+curl -X GET http://localhost:3030/fetchDealer/15
+
+{
+  "id": 15,
+  "city": "San Francisco",
+  "state": "California",
+  "st": "CA",
+  "address": "4321 California St",
+  "zip": "94119",
+  "lat": 37.7848,
+  "long": -122.4042,
+  "short_name": "Holdlamis",
+  "full_name": "Holdlamis Car Dealership"
+}

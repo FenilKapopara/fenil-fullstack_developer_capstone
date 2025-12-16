@@ -1,0 +1,15 @@
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+December 16, 2025 - 14:00:00
+Django version 4.2.4, using settings 'djangobackend.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+
+[16/Dec/2025 14:00:10] "GET / HTTP/1.1" 200 10697
+[16/Dec/2025 14:00:12] "GET /static/style.css HTTP/1.1" 200 4500
+[16/Dec/2025 14:00:13] "GET /static/app.js HTTP/1.1" 200 8500
+[16/Dec/2025 14:00:15] "GET /djangoapp/get_dealers HTTP/1.1" 200 2500
+[16/Dec/2025 14:00:20] "POST /djangoapp/login HTTP/1.1" 200 45

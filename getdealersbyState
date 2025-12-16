@@ -1,0 +1,16 @@
+curl -X GET http://localhost:3030/fetchDealers/Kansas
+
+[
+  {
+    "id": 6,
+    "city": "Topeka",
+    "state": "Kansas",
+    "st": "KS",
+    "address": "987 Cedar Blvd",
+    "zip": "66601",
+    "lat": 39.055825,
+    "long": -95.689018,
+    "short_name": "Kansas Cars",
+    "full_name": "Kansas Cars API"
+  }
+]
